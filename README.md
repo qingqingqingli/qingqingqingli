@@ -1,6 +1,6 @@
 ### Hey 👋
 
-I'm Qing and currently learning about Software Engineer at Codam (part of 42 network).
+I'm Qing and currently learning about Software Engineer at [Codam](https://www.codam.nl/en/) (part of [42 network](https://www.codam.nl/en/the-42-network)).
 
 I post every project I made at Codam and some other personal projects here.
 
