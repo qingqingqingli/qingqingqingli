@@ -4,6 +4,8 @@ I'm Qing and currently learning about Software Engineer at [Codam](https://www.c
 
 I post every project I made at Codam and some other personal projects here.
 
+If you have any questions or feedback about my projects, please don't hesitate to reach out.
+
 📫 How to reach me: qli@student.codam.nl
 
 <!--
