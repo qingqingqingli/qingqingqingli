@@ -6,7 +6,9 @@ Prior to Codam, I worked as a political journalist 🎤 (*in China*), travel con
 
 I post all projects I completed at Codam and other personal projects here. If you have any questions or feedback, don't hesitate to reach out.
 
-📫 How to reach me: qli@student.codam.nl
+<!-- 📫 How to reach me: qli@student.codam.nl -->
+
+<a href= "https://www.linkedin.com/in/qingliqing/"><img align=center src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="mailto:qli@student.codam.nl"><img align=center src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a> 
 
 <!--
 **qingqingqingli/qingqingqingli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
