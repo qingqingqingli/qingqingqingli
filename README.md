@@ -4,7 +4,7 @@ I'm Qing and currently learning about software engineering 👩‍💻 at [Codam
 
 Prior to Codam, I worked as a political journalist 🎤 (*in China*), travel consultant 🏖️ (*in the Maldives*), and marketing & customer experience consultant 👩‍💼 (*in The Netherlands*). Learning about programming has transformed my skillsets and introduced me to a fascinating tech world 🌐.
 
-I post all projects I completed at Codam and other personal projects here. If you have any questions or feedback, don't hesitate to reach out.
+I post all the projects I completed at Codam and other personal projects here. If you have any questions or feedback, don't hesitate to reach out.
 
 <a href= "https://www.linkedin.com/in/qingliqing/"><img align=center src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="mailto:qli@student.codam.nl"><img align=center src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a> 
 
