@@ -4,7 +4,7 @@ I'm Qing and currently learning about software engineering 👩‍💻 at [Codam
 
 Prior to Codam, I worked as a political journalist 🎤 (*in China*), travel consultant 🏖️ (*in the Maldives*), and marketing & customer experience consultant 👩‍💼 (*in The Netherlands*). Learning about programming has transformed my skillsets and introduced me to a fascinating tech world 🌐.
 
-I post all the projects I completed at Codam and other personal projects here. My current projects are written in:
+I post all the projects I completed at Codam and other personal projects here. Current projects are written in:
 
 <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/> <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/> <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
 
