@@ -1,6 +1,6 @@
 ### Hey 👋
 
-I'm Qing and currently learning about software engineering 👩‍💻 at [Codam](https://www.codam.nl/en/) (part of [42 network](https://www.codam.nl/en/the-42-network)).
+I'm Qing and currently studying software engineering 👩‍💻 at [Codam](https://www.codam.nl/en/) (part of [42 network](https://www.codam.nl/en/the-42-network)).
 
 Prior to Codam, I worked as a political journalist 🎤 (*in China*), travel consultant 🏖️ (*in the Maldives*), and marketing & customer experience consultant 👩‍💼 (*in The Netherlands*). Learning about programming has transformed my skillsets and introduced me to a fascinating tech world 🌐.
 
