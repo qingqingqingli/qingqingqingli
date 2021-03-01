@@ -1,4 +1,4 @@
-### Hey 👋
+### Hello world! 🌏
 
 I'm Qing and currently studying software engineering 👩‍💻 at [Codam](https://www.codam.nl/en/) (part of [42 network](https://www.codam.nl/en/the-42-network)).
 
