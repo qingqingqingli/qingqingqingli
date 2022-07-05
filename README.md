@@ -1,8 +1,8 @@
 ### Hello world! 🌏
 
-I'm Qing and currently studying software engineering 👩‍💻 at [Codam](https://www.codam.nl/en/) (part of [42 network](https://www.codam.nl/en/the-42-network)).
+I'm Qing and currently working as a junior iOS developer at IKEA. 👩‍💻 
 
-Prior to Codam, I worked as a political journalist 🎤 (*in China*), travel consultant 🏖️ (*in the Maldives*), and marketing & customer experience consultant 👩‍💼 (*in The Netherlands*). Learning programming has transformed my skillsets and introduced me to a fascinating tech world 🌐.
+Before studying at [Codam](https://www.codam.nl/en/), I worked as a political journalist 🎤 (*in China*), travel consultant 🏖️ (*in the Maldives*), and marketing & customer experience consultant 👩‍💼 (*in The Netherlands*). Learning programming has transformed my skillsets and introduced me to a fascinating tech world 🌐.
 
 I post projects completed at Codam and other personal projects here, which are written in:
 
